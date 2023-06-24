@@ -2,8 +2,8 @@ body{
     background-color: blueviolet;
 }
 #second{
-    background-color: blue;
+    background-color: white;
 }
 h1 {
-    background-color: bisque; color: black;
+    background-color: bisque; color: black;border: 3px solid brown;text-align: center;
 }
