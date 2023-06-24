@@ -1,6 +1,9 @@
-#first{
-    background-color: aqua;
+body{
+    background-color: blueviolet;
 }
 #second{
     background-color: blue;
+}
+h1 {
+    background-color: bisque; color: black;
 }
